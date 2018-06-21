@@ -2,6 +2,6 @@
 
 一个允许匿名的讨论版：[Abyss](https://abyss.club)
 
-* 界面设计：EKLLL
-* 后端代码仓库：[nanozuki/uexky](https://github.com/nanozuki/uexky)
-* 前端代码仓库：[nanozuki/tt392](https://github.com/nanozuki/tt392)
+* 设计顾问：EKLLL
+* 后端代码仓库：[uexky](https://gitlab.com/abyss.club/uexky)
+* 前端代码仓库：[tt392](https://gitlab.com/abyss.club/tt392)
